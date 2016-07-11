@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Forschungsvorhaben-v0-1.aux
+The style file: chicago.bst
+Database file #1: literatur/BA.bib
+Warning--can't use both author and editor fields in Kuzin2013
+You've used 11 entries,
+            2861 wiz_defined-function locations,
+            688 strings with 8271 characters,
+and the built_in function-call counts, 8970 in all, are:
+= -- 775
+> -- 659
+< -- 8
++ -- 202
+- -- 218
+* -- 778
+:= -- 1524
+add.period$ -- 40
+call.type$ -- 11
+change.case$ -- 84
+chr.to.int$ -- 11
+cite$ -- 12
+duplicate$ -- 294
+empty$ -- 564
+format.name$ -- 258
+if$ -- 1799
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 58
+num.names$ -- 100
+pop$ -- 102
+preamble$ -- 1
+purify$ -- 153
+quote$ -- 0
+skip$ -- 290
+stack$ -- 0
+substring$ -- 431
+swap$ -- 116
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 200
+warning$ -- 1
+while$ -- 97
+width$ -- 0
+write$ -- 163
+(There was 1 warning)

@@ -1,0 +1,95 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Batoulis, Meyer, Bazhenova, Decker, and
+  Weske}{Batoulis et~al.}{2015}]{BatoulisMeyerBazhenovaEtAl2015}
+Batoulis, K., A.~Meyer, E.~Bazhenova, G.~Decker, and M.~Weske (2015).
+\newblock {E}xtracting {D}ecision {L}ogic from {P}rocess {M}odels.
+\newblock In {\em Advanced Information Systems Engineering}, pp.\  349--366.
+  Springer Science $\mathplus$ Business Media.
+
+\bibitem[\protect\citeauthoryear{Biard, Mauff, Bigand, and Bourey}{Biard
+  et~al.}{2015}]{BiardMauffBigandEtAl2015}
+Biard, T., A.~L. Mauff, M.~Bigand, and J.-P. Bourey (2015).
+\newblock {S}eparation of {D}ecision {M}odeling from {B}usiness {P}rocess
+  {M}odeling {U}sing {N}ew {\textquotedblleft}{D}ecision {M}odel and
+  {N}otation{\textquotedblright} ({DMN}) for {A}utomating {O}perational
+  {D}ecision-{M}aking.
+\newblock In {\em Risks and Resilience of Collaborative Networks}, pp.\
+  489--496. Springer Science $\mathplus$ Business Media.
+
+\bibitem[\protect\citeauthoryear{Dumas, Rosa, Mendling, and Reijers}{Dumas
+  et~al.}{2013}]{Dumas2013}
+Dumas, M., M.~L. Rosa, J.~Mendling, and H.~Reijers (2013).
+\newblock {\em {F}undamentals of {B}usiness {P}rocess {M}anagement}.
+\newblock Berlin Heidelberg: Springer Science \& Business Media.
+
+\bibitem[\protect\citeauthoryear{Kurz, Schmidt, Fleischmann, and Lederer}{Kurz
+  et~al.}{2015}]{KurzSchmidtFleischmannEtAl2015}
+Kurz, M., W.~Schmidt, A.~Fleischmann, and M.~Lederer (2015).
+\newblock {L}everaging {CMMN} for {ACM}.
+\newblock In {\em Proceedings of the 7\textsuperscript{th} International
+  Conference on Subject-Oriented Business Process Management - S-{BPM} {ONE}
+  {\textquotesingle}15}. Association for Computing Machinery ({ACM}).
+
+\bibitem[\protect\citeauthoryear{Kuzin and Kuzina}{Kuzin and
+  Kuzina}{2013}]{Kuzin2013}
+Kuzin, V. and G.~Kuzina (2013).
+\newblock {\em {O}n the {M}ove to {M}eaningful {I}nternet {S}ystems: {OTM}
+  2013~{W}orkshops: {C}onfederated {I}nternational {W}orkshops: {OTM}
+  {A}cademy, {OTM} {I}ndustry {C}ase {S}tudies {P}rogram, {ACM}, {EI}2{N},
+  {ISDE}, {META}4e{S}, {ORM}, {S}e{D}e{S}, {SINCOM}, {SMS}, and {SOMOCO} 2013,
+  {G}raz, {Austria}, {September} 9 - 13, 2013, {P}roceedings}, Chapter CMMN
+  Implementation in Executable Model of Business Process at Order-Based
+  Manufacturing Enterprise, pp.\  112--123.
+\newblock Berlin, Heidelberg: Springer Berlin Heidelberg.
+
+\bibitem[\protect\citeauthoryear{Mertens, Gailly, and Poels}{Mertens
+  et~al.}{2015}]{MertensGaillyPoels2015}
+Mertens, S., F.~Gailly, and G.~Poels (2015).
+\newblock {E}nhancing {D}eclarative {P}rocess {M}odels with {DMN} {D}ecision
+  {L}ogic.
+\newblock In {\em Enterprise, Business-Process and Information Systems
+  Modeling}, pp.\  151--165. Springer Science $\mathplus$ Business Media.
+
+\bibitem[\protect\citeauthoryear{Motahari-Nezhad and Swenson}{Motahari-Nezhad
+  and Swenson}{2013}]{Motahari-NezhadSwenson2013}
+Motahari-Nezhad, H.~R. and K.~D. Swenson (2013, July).
+\newblock {A}daptive {C}ase {M}anagement: {O}verview and {R}esearch
+  {C}hallenges.
+\newblock In {\em 2013 IEEE 15\textsuperscript{th} Conference on Business
+  Informatics}, pp.\  264--269.
+
+\bibitem[\protect\citeauthoryear{Object Management Group}{Object Management
+  Group}{2014}]{cmmnSpec}
+Object Management Group (2014, May).
+\newblock {\em {C}ase {M}anagement {M}odel and {N}otation\/} (Version 1.0 ed.).
+\newblock Object Management Group.
+
+\bibitem[\protect\citeauthoryear{Osuszek and Stanek}{Osuszek and
+  Stanek}{2015}]{OsuszekStanek2015}
+Osuszek, {\L}. and S.~Stanek (2015, October).
+\newblock {K}nowledge {M}anagement and {D}ecision {S}upport in {A}daptive
+  {C}ase {M}anagement {P}latforms.
+\newblock In {\em Proceedings of the 2015 Federated Conference on Computer
+  Science and Information Systems}. Polish Information Processing Society
+  {PTI}.
+
+\bibitem[\protect\citeauthoryear{Wang and Traor{\'e}}{Wang and
+  Traor{\'e}}{2014}]{WangTraore2014}
+Wang, S. and M.~K. Traor{\'e} (2014).
+\newblock {A} {S}ystem-theoretic {A}pproach to {C}ase {M}anagement.
+\newblock In {\em Proceedings of the 2014 SpringSim Poster Session}, Posters
+  '14, San Diego, CA, USA, pp.\  31--32. Society for Computer Simulation
+  International.
+
+\bibitem[\protect\citeauthoryear{Zeising, Sch{\"{o}}nig, and Jablonski}{Zeising
+  et~al.}{2014}]{Zeising_2014}
+Zeising, M., S.~Sch{\"{o}}nig, and S.~Jablonski (2014, October).
+\newblock {T}owards a {C}ommon {P}latform for the {S}upport of {R}outine and
+  {A}gile {B}usiness {P}rocesses.
+\newblock In {\em Proceedings of the 10\textsuperscript{th} {IEEE}
+  International Conference on Collaborative Computing: Networking, Applications
+  and Worksharing}, pp.\  94--103. Institute for Computer Sciences, Social
+  Informatics and Telecommunications Engineering ({ICST}).
+
+\end{thebibliography}
